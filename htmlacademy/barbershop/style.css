@@ -1,0 +1,157 @@
+body {
+
+    margin: 0px;
+    padding: 0px;
+
+    font-family: 'PT Sans Narrow', Arial, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+
+    background-color: black;
+    background-image: url("0_JCP_HMB_26052020snake_012JPG.jpeg");
+    background-position: top center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.button {
+    font: inherit;
+
+    text-align: center;
+    color: white;
+    vertical-align: center;
+    text-transform: uppercase;
+    background-color: black;
+    border: none;
+}
+
+.main-navigation {
+    font-size: 16px;
+    line-height: 20px;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.site-navigation,
+.user-navigation {
+    list-style: none;
+}
+
+.site-navigation a,
+.user-navigation a {
+    color: inherit;
+}
+
+.site-navigation a:hover,
+.user-navigation a:hover,
+.site-navigation a:focus,
+.user-navigation a:focus {
+    background-color: pink;
+}
+
+.advantages {
+    list-style: none;
+}
+
+.advantages-item {
+    text-align: center;
+}
+
+.advantages-item h3 {
+    font-size: 30px;
+    line-height: 42px;
+}
+
+.index-columns {
+    color: black;
+    background-color: #f8f5f2;
+}
+
+.index-columns h2 {
+    font-size: 30px;
+    line-height: 42px;
+}
+
+.news-item {
+    list-style: none;
+}
+
+.news-item time {
+    text-transform: none;
+}
+
+.gallery-content {
+    background-color: #cccccc;
+    border: 7px solid #ffffff;
+}
+
+.appointment-item input {
+    font: inherit;
+
+    background-color: transparent;
+    border: 2px solid black;
+}
+
+appointment-item input:focus {
+    background-color: #663d15;
+}
+
+.main-footer {
+    color: #ffffff;
+    background-color: #212121;
+}
+
+.footer-contacts a {
+    color: white;
+    text-decoration: underline;
+}
+
+.footer-contacts a:hover {
+    text-decoration: none;
+}
+
+.footer-social,
+footer p {
+    text-align: center;
+}
+
+.footer-social ul {
+    list-style: none;
+}
+
+.modal {
+    color: #000000;
+    background-color: #f8f5f2;
+}
+
+.modal h2{
+    font-size: 30px;
+    line-height: 42px;
+}
+
+.modal a{
+    color: black;
+    text-decoration: underline;
+}
+
+.modal a:hover{
+    text-decoration: none;
+}
+
+.modal-button{
+    font: inherit;
+
+    text-align: center;
+    color: #ffffff;
+    vertical-align: middle;
+    text-transform: uppercase;
+    background-color: black;
+    border: none;
+}
+
+
